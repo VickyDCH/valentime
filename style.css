@@ -5,7 +5,7 @@
   font-family: "Poppins" sans-serif;
 }
 :root {
-  --clr: rgb(255, 0, 0);
+  --clr: rgb(0, 123, 255);
 }
 body {
   display: flex;
